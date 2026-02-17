@@ -10,7 +10,7 @@
 <h2>💻Cybersecurity  Projects:</h2>
 
 - <b> Mémoire de fin d'étude</b>
-  - [Conception et mise en œuvre d’un Systèmes de Défense Automatisés par l’IA pour la Cybersécurité](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Conception et mise en œuvre d’un Systèmes de Défense Automatisés par l’IA pour la Cybersécurité](https://github.com/Thecybersentinel1/Master)
   - [Etude et mise en place d'un outil d'adminstartion et supervision réseau](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b> Sécurité système – Surveillance & Gestion des Incidents </b>
