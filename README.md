@@ -7,7 +7,7 @@
   - [Soc Level 1, TryHackme]()
     
 
-<h2>💻Cybersecurity  Projects:</h2>
+<h2>🧱Cybersecurity  Projects:</h2>
 
 - <b> Mémoire de fin d'étude</b>
   - [Conception et mise en œuvre d’un Systèmes de Défense Automatisés par l’IA pour la Cybersécurité](https://github.com/Thecybersentinel1/Master)
@@ -26,10 +26,10 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
-<h2>💻Audit Projects:</h2>
+<h2>🔎Audit Projects:</h2>
 
   - [Audit et sécurisation d’un Active Directory avec BloodHound ](https://github.com/joshmadakor1/Jwipe.PowerShell)
-<h2> 🤳 Connect with me:</h2>
+<h2>📞 Connect with me:</h2>
 
 [<img align="left" alt="Rwane Nzinga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
