@@ -1,5 +1,12 @@
 <h1>Bonjour, Je suis Rwane <br/> <a>Aspirant professionnel de la cybersécurité </a></h1>
 
+- <b> <h2>🎓Certifations :</h2>
+  - [Comptia security+]()
+  - [BTL1]()
+  - [Soc Level 1, TryHackme]()
+    
+ </b>
+
 <h2>💻Cybersecurity  Projects:</h2>
 
 - <b> Mémoire de fin d'étude</b>
