@@ -11,7 +11,7 @@
 
 - <b> Mémoire de fin d'étude</b>
   - [Conception et mise en œuvre d’un Systèmes de Défense Automatisés par l’IA pour la Cybersécurité](https://github.com/Thecybersentinel1/Master)
-  - [Etude et mise en place d'un outil d'adminstartion et supervision réseau](https://github.com/Thecybersentinel1/Licence)
+  - [Etude et mise en place d'un outil d'adminstartion et supervision réseau](https://github.com/Thecybersentinel1/Licence-lab)
 
 - <b> Sécurité système – Surveillance & Gestion des Incidents </b>
 
